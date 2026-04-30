@@ -11,6 +11,16 @@ const images = [
   "/images/hrana/slidegrijac_kejdal_r0.jpg",
   "/images/hrana/slidegrijac_kejdal_r1.jpg",
   "/images/hrana/slidegrijac_kejdal_r2.jpg",
+  "/images/hrana/IMG-16c53c7d96f7814e69b0cf757040ec88-V.jpg",
+  "/images/hrana/IMG-3cd3e2f47427230382a51c75cbd23250-V.jpg",
+  "/images/hrana/IMG-54e3cc0264c9fdf970e0c07f87c8ae1a-V.jpg",
+  "/images/hrana/IMG-73c99e02f52bbfa74854a61c7d1e5680-V.jpg",
+  "/images/hrana/IMG-8f043a2fece6e774db6e3b31ca31e142-V.jpg",
+  "/images/hrana/IMG-902bd7e1b9f6de5e0dab51fda61fffa7-V.jpg",
+  "/images/hrana/IMG-99cbcbd7375c9f2f9443c325639d2286-V.jpg",
+  "/images/hrana/IMG-9a66d13dc14787aca1e1d0c2fd42405b-V.jpg",
+  "/images/hrana/IMG-a5e7c53f38214e20d096e137697d7a4d-V.jpg",
+  "/images/hrana/IMG-c6b6617f901d8d05ea9b7752b24326ce-V.jpg",
 ];
 
 const description = (

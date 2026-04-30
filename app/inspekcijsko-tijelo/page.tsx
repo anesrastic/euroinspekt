@@ -9,6 +9,7 @@ const images = [
   "/images/inspekcija/slideIT_m21.jpg",
   "/images/inspekcija/slidemedo10.jpg",
   "/images/inspekcija/slidemedo11.jpg",
+  "/images/inspekcija/20260416_134227.jpg",
 ];
 
 const description = (

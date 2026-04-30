@@ -6,6 +6,15 @@ const images = [
   "/images/voda/slidevoda112.jpg",
   "/images/voda/slidevoda113.jpg",
   "/images/voda/slidevoda114.jpg",
+  "/images/voda/IMG-1fe94d63990045763b65a9e3deb17a74-V.jpg",
+  "/images/voda/IMG-38c49e84378f83fc1541a68b63eb9bf1-V.jpg",
+  "/images/voda/IMG-39be7a862cff2c238330225b79ccaf26-V.jpg",
+  "/images/voda/IMG-4514e8649fefc178fd6ab27175122c24-V.jpg",
+  "/images/voda/IMG-4f50eec949513d2a896f22a267cf2a9e-V.jpg",
+  "/images/voda/IMG-6dd82a105b2123bb425ec4a6c1f355f3-V.jpg",
+  "/images/voda/IMG-b58a150336a9ea6aa68f56a6ebc8f024-V.jpg",
+  "/images/voda/IMG-b9b4e0add54de001edd7a26466b4de78-V.jpg",
+  "/images/voda/IMG-f5254c0ef635eb7f1edde0c70d5c2a17-V.jpg",
 ];
 
 const description = (
